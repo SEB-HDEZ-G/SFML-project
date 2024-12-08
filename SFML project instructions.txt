@@ -1,0 +1,6 @@
+To run the sfml program:
+- On the terminal, first run mingw32-make
+- After that, run .\main.exe
+
+
+
